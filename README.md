@@ -1,2 +1,2 @@
 # Special-Issues-of-Building-Physics-2026-27
-Software extensions for Building Modelling
+The ZIP folder contains the Legacy Version of Honeybee and Ladybug extensions for Grasshopper
